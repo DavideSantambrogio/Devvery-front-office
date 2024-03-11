@@ -20,7 +20,7 @@ Implementazioni Frontend e Tecnologie Utilizzate:
 
 ### Ricerca per filtri
 
-<img src="screen/localhost_4242_(1).png" alt="">
+<img src="screen/localhost_4242_ (1).png" alt="">
 
 ### Pagina ristorante
 
