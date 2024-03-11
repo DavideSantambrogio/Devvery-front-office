@@ -1,3 +1,5 @@
+Progetto svolto in collaborazione ad altre quattro studenti durante il mio percorso in boolean.
+
 Devvery è una web app che facilita la consegna di cibo a domicilio di una città. Gli utenti possono cercare i loro piatti preferiti, ordinare dai ristoranti locali e ricevere i pasti comodamente a casa propria.
 
 Implementazioni Frontend e Tecnologie Utilizzate:
