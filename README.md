@@ -16,6 +16,9 @@ Implementazioni Frontend e Tecnologie Utilizzate:
 
 - **Rendering dinamico del contenuto**: Utilizziamo Vue.js per il rendering dinamico del contenuto, consentendo agli utenti di visualizzare in tempo reale i risultati delle loro azioni senza la necessità di ricaricare la pagina. Ad esempio, gli utenti possono aggiungere piatti al carrello e visualizzare il riepilogo dell'ordine senza interruzioni.
 
+
+[video frontend.webm](https://github.com/DavideSantambrogio/Devvery-front-office/assets/144235842/8621fa60-7a1a-43e5-bf2d-9fa280d89f8c)
+
 ### Pagina iniziale
 
 <img src="screen/localhost_4242_.png" alt="">
