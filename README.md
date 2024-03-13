@@ -12,7 +12,7 @@ Implementazioni Frontend e Tecnologie Utilizzate:
 
 - **Integrazione con Braintree per il Sistema di Pagamento**: Per gestire le transazioni di pagamento online, integreremo Braintree. Utilizziamo le API messe a disposizione da Braintree per consentire agli utenti di effettuare pagamenti in modo sicuro e affidabile direttamente dall'applicazione.
 
-- **Comunicazione con il Backend tramite API**: Comunichiamo con il backend utilizzando chiamate API RESTful per recuperare e inviare dati tra il frontend e il server. Utilizziamo librerie come Axios per gestire le richieste HTTP in modo efficiente e affidabile.
+- **Comunicazione con il Backend tramite API**: Comunichiamo con il backend utilizzando chiamate API per recuperare e inviare dati tra il frontend e il server. Utilizziamo librerie come Axios per gestire le richieste HTTP in modo efficiente e affidabile.
 
 - **Rendering dinamico del contenuto**: Utilizziamo Vue.js per il rendering dinamico del contenuto, consentendo agli utenti di visualizzare in tempo reale i risultati delle loro azioni senza la necessità di ricaricare la pagina. Ad esempio, gli utenti possono aggiungere piatti al carrello e visualizzare il riepilogo dell'ordine senza interruzioni.
  
